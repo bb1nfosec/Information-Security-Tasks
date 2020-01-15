@@ -1,0 +1,75 @@
+Document Title:
+===============
+Sparkasse (Bank) - Service Security Advisory WB021 2016
+
+
+References:
+===========
+https://www.vulnerability-lab.com/get_content.php?id=1959
+
+Download (PDF): http://www.vulnerability-lab.com/resources/documents/spk-sec-WB021.pdf
+
+Vulnerability Magazine: https://vulnerability-db.com/?q=articles/2016/09/06/critical-vulnerabilities-sparkassen-bank-server-discovered-researchers-0
+
+
+
+Release Date:
+=============
+2016-09-24
+
+
+Vulnerability Laboratory ID (VL-ID):
+====================================
+1959
+
+
+Discovery Status:
+=================
+Published
+
+
+Exploitation Technique:
+=======================
+Remote
+
+
+Severity Level:
+===============
+Medium
+
+
+Technical Details & Description:
+================================
+The advisory explains 3 different vulnerabilities in the official sparkasse online service web-application of the finance informatik gmbh in frankfurt.
+The vulnerabilities are different nature but exploited by the same conditions. The advisory impact clear details with serious 
+information about the problematic and vulnerabilities in the main website in 2016. The vulnerabilities are already known as patched.
+
+
+Credits & Authors:
+==================
+Vulnerability Laboratory [Research Team]
+
+
+Disclaimer & Information:
+=========================
+The information provided in this advisory is provided as it is without any warranty. Vulnerability Lab disclaims all warranties, either expressed 
+or implied, including the warranties of merchantability and capability for a particular purpose. Vulnerability-Lab or its suppliers are not liable 
+in any case of damage, including direct, indirect, incidental, consequential loss of business profits or special damages, even if Vulnerability-Lab 
+or its suppliers have been advised of the possibility of such damages. Some states do not allow the exclusion or limitation of liability mainly for 
+consequential or incidental damages so the foregoing limitation may not apply. We do not approve or encourage anybody to break any licenses, policies, 
+deface websites, hack into databases or trade with stolen data.
+
+Domains:    www.vulnerability-lab.com 		- www.vuln-lab.com 						- www.evolution-sec.com
+Section:    magazine.vulnerability-lab.com 	- vulnerability-lab.com/contact.php 				- evolution-sec.com/contact
+Social:	    twitter.com/vuln_lab		- facebook.com/VulnerabilityLab 				- youtube.com/user/vulnerability0lab
+Feeds:	    vulnerability-lab.com/rss/rss.php 	- vulnerability-lab.com/rss/rss_upcoming.php 			- vulnerability-lab.com/rss/rss_news.php
+Programs:   vulnerability-lab.com/submit.php 	- vulnerability-lab.com/list-of-bug-bounty-programs.php 	- vulnerability-lab.com/register.php
+
+Any modified copy or reproduction, including partially usages, of this file, resources or information requires authorization from Vulnerability Laboratory. 
+Permission to electronically redistribute this alert in its unmodified form is granted. All other rights, including the use of other media, are reserved by 
+Vulnerability-Lab Research Team or its suppliers. All pictures, texts, advisories, source code, videos and other information on this website is trademark 
+of vulnerability-lab team & the specific authors or managers. To record, list, modify, use or edit our material contact (admin@) to get a ask permission.
+
+				    Copyright © 2016 | Vulnerability Laboratory - [Evolution Security GmbH]™
+
+
