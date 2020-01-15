@@ -5,3 +5,6 @@ On day to day basis learners struggle for guidance , This repository is aimed to
 
 if you learnt some technique or wish to give the world a task please add it up here , Either it maybe easy or hard it would help someone to 
 enlighten their knowledge.
+
+
+<b><h1>PLEASE DONT FORGET TO LOOK AT WEBSITES FOR REFERENCE ,FEEL FREE TO ADD YOUR SITE TO THE CATEGORY</b></h1>
