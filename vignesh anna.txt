@@ -1,0 +1,19 @@
+ Information Security Categories 
+
+1)Malware analysis
+2)Vulnerablity Analysis
+3)Pentest
+4)Stegnaography
+5)Cryptography
+6)OSINT
+7)Web
+8)Post Exploitation
+9)Mobile Application testing
+10)Thin client Application testing
+11)Network Forensics
+12)Forensics
+13)Incident Response
+14)Compliance and risk assesment
+15)Auditing
+ 16)SOC
+ 17)Threat Hunting
