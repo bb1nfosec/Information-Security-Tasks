@@ -52,7 +52,7 @@ Knowledge should be free, accessible to all, and in one place.
 | [incident-response/](incident-response/) | IR playbooks |
 | [forensics/](forensics/) | Digital & network forensics |
 | [threat-hunting/](threat-hunting/) | Threat hunting techniques |
-| [auditing/](auditing/) | Windows auditing mindmap |
+| [auditing/](auditing/) | Windows auditing mindmap, audit policy baseline, technical control audit tests (SIEM, firewall, PAM, backup/DR, logging) |
 | [compliance/](compliance/) | Risk assessment frameworks |
 | [vulnerability-analysis/](vulnerability-analysis/) | Vulnerability research notes |
 

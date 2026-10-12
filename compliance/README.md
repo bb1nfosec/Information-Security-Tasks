@@ -137,6 +137,8 @@ Risk score = L × I  (1–25)
 □ Patch management SLA defined and met?
 ```
 
+For detailed test steps, evidence commands and pass/fail criteria, see **[Audit Test Procedures — Technical Controls](../auditing/technical-control-tests/README.md)**. It covers SIEM, firewall rule review, privileged access, backup and DR, and logging coverage, plus the [Windows Audit Policy Baseline](../auditing/windows-audit-policy-baseline.md).
+
 ---
 
 ## Tools
